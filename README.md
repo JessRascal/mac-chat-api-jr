@@ -1,5 +1,5 @@
 # Jess Rascal's Version
-This is my modified version of the 'mac-chat-api' from the Devslopes iOS11 course.
+This is my modified version of the `mac-chat-api` from the Devslopes iOS11 course.
 
 # mac-chat-api
 Prebuilt api for slack app clone.
