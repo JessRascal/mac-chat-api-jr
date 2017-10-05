@@ -1,4 +1,4 @@
-#Jess Rascal's Version
+# Jess Rascal's Version
 This is my modified version of the 'mac-chat-api' from the Devslopes iOS11 course.
 
 # mac-chat-api
