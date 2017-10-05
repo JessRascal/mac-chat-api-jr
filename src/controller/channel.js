@@ -42,7 +42,7 @@ export default({ config, db }) => {
     });
   });
 
-  // '/vq/channel/:id' -Delete
+  // '/v1/channel/:id' -Delete
   api.delete('/:id', authenticate, (req, res) => {
     User.remove({
       _id: req.params.id
