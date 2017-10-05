@@ -1,6 +1,8 @@
 # Jess Rascal's Version
 This is my modified version of the `mac-chat-api` from the Devslopes iOS11 course.
 
+The original project can be found [here](https://github.com/devslopes/mac-chat-api)
+
 # mac-chat-api
 Prebuilt api for slack app clone.
 
@@ -49,11 +51,3 @@ npm run build
 
 ```
 
-#### Run a live online instance 
-* Go to `src/config/index.js` 
-* change port to `"port": process.env.PORT`
-* change mongoUrl to `"mongoUrl": process.env.MONGODB_URI`
-
-You can also spin up a free Heroku dyno to test it out:
-
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/devslopes/mac-chat-api)
